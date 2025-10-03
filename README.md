@@ -1,17 +1,20 @@
 # E-AntiMythware
-反极域电子教师的易语言小程序
 
-3.2的代码丢了，只有3.1了，不好意思啦~
+> 🚧 This is an **ancient artifact** from my childhood coding adventures.  
+> It survives here purely for sentimental reasons. Proceed with caution (and humor)!
 
-以及，
-请原谅那时我写出了这么个迷惑的东西，对不起。代码内可能有大量令人高血压的内容，请酌情参考。
+## Overview
 
-还有，
-我也不知道当时我为什么要把精易模块和好几个啥啥啥模块重新编译成一个模块署上自己的名字。那啥CF模块是放了点别点东西的精易模块（甚至还闪了电东西）；那啥核显卡模块是B站UP[GTX690战术核显卡导弹](https://space.bilibili.com/179757857)的被我封装后的模块，没有源码是因为当时ta没有开源，现在有没有我不知道，但其实极域杀手用不着的。
+A lightweight desktop app written in E Language (易语言) to counter Mythware Management software.
+This repository contains version 3.1 of the project. Unfortunately, the code for version 3.2 has been lost.
 
----
+## Technical Information
 
-## 基础信息：
+- **Programming Language**: E Language (易语言)
+- **Version**: 5.9
 
-- 易语言版本：5.9
----
+Some modules included in this project were adapted from third-party libraries. Please refer to the `modules-and-source` directory for more details about module sources and licensing.
+
+## Disclaimer
+
+This software is provided for educational purposes only. Users are responsible for ensuring their use complies with applicable laws and regulations.
