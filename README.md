@@ -1,17 +1,22 @@
 # E-AntiMythware
-反极域电子教师的易语言小程序
 
-3.2的代码丢了，只有3.1了，不好意思啦~
+A lightweight utility written in Easy Programming Language (EPL) to counter Mythware Electronic Classroom Management software.
 
-以及，
-请原谅那时我写出了这么个迷惑的东西，对不起。代码内可能有大量令人高血压的内容，请酌情参考。
+## About
 
-还有，
-我也不知道当时我为什么要把精易模块和好几个啥啥啥模块重新编译成一个模块署上自己的名字。那啥CF模块是放了点别点东西的精易模块（甚至还闪了电东西）；那啥核显卡模块是B站UP[GTX690战术核显卡导弹](https://space.bilibili.com/179757857)的被我封装后的模块，没有源码是因为当时ta没有开源，现在有没有我不知道，但其实极域杀手用不着的。
+This repository contains version 3.1 of the project. Unfortunately, the code for version 3.2 has been lost.
 
----
+Please note that the code was written during my early programming days and may contain unconventional patterns. I apologize for any confusion this may cause.
 
-## 基础信息：
+## Technical Information
 
-- 易语言版本：5.9
----
+- **Programming Language**: Easy Programming Language (EPL)
+- **Version**: 5.9
+
+## Modules
+
+Some modules included in this project were adapted from third-party libraries. Please refer to the `modules-and-source` directory for more details about module sources and licensing.
+
+## Disclaimer
+
+This software is provided for educational purposes only. Users are responsible for ensuring their use complies with applicable laws and regulations.
